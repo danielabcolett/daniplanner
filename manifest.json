@@ -1,0 +1,25 @@
+{
+  "name": "Dani — Planner de Vida",
+  "short_name": "Planner",
+  "description": "Planner de vida pessoal da Dani com Google Calendar",
+  "start_url": "/dani-planner/",
+  "scope": "/dani-planner/",
+  "display": "standalone",
+  "background_color": "#1a1410",
+  "theme_color": "#c4785a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
